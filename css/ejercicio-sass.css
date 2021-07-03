@@ -49,6 +49,8 @@ main {
   text-align: center;
   font-weight: 700;
   color: rgba(255, 255, 255, 0.2);
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
 }
 .perfil__boton {
   display: block;

@@ -17,6 +17,7 @@
 		text-align: center;
 		font-weight: 700;
         color: get-opacity($color-claro, .20);
+        @include titulos($Fuente2);
 	}
 	&__boton {
 		display: block;
